@@ -39,8 +39,6 @@ I’m a scholar of innovation dedicated to advancing the frontiers of artificial
 
 - **Latifi, S., & Gierl, M. (2021)**. Automated scoring of junior and senior high essays using Coh-Metrix features: Implications for large-scale language testing. *Language Testing*, 38(1), 62-85.
 
-- **Latifi, S., Gierl, M., Wang, R., Lai, H., & Wang, A. (2017)**. Information-based methods for evaluating the semantics of automatically generated test items. *Artificial Intelligence Research*, 6(1), 69.
-
 - **Latifi, S., Gierl, M. J., Boulais, A. P., & De Champlain, A. (2016)**. Using Automated Scoring To Evaluate Written Responses in English and French on a High Stakes Clinical Competency Assessment. *Evaluation & the Health Professions*, 39(1), 100-113.
 
 - **Latifi, S., Bulut, O., Gierl, M., Christie, T., Jeeva, S. (2016)**. Differential Performance on National Exams: Evaluating Item and Bundle Functioning Methods using English, Mathematics, and Science Assessments. *SAGE Open*, 6(2).
