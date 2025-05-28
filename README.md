@@ -1,13 +1,8 @@
-## Hi there 👋
-
-
 # Syed Latifi, PhD
 
 **Scholar of Innovation in Assessment and Evaluation**
 
 ---
-
-Hello and welcome!
 
 ## 👨‍🎓 About Me
 
